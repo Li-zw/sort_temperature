@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sort_temperature:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc932073-1121-401b-a591-5cc8c0eaa0bb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sort_temperature" />
+  </component>
+  <component name="ProjectId" id="1ccEDhOKuAZxd8aoAnMRiAwzPqR" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc932073-1121-401b-a591-5cc8c0eaa0bb" name="Default Changelist" comment="" />
+      <created>1590819363235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590819363235</updated>
+      <workItem from="1590819368122" duration="7105000" />
+      <workItem from="1591003425281" duration="173000" />
+      <workItem from="1591169553183" duration="1066000" />
+      <workItem from="1591237255745" duration="956000" />
+      <workItem from="1591259653643" duration="767000" />
+      <workItem from="1591277719689" duration="673000" />
+      <workItem from="1591355137342" duration="1494000" />
+      <workItem from="1591360241017" duration="932000" />
+      <workItem from="1591699100645" duration="540000" />
+      <workItem from="1593761591333" duration="1797000" />
+      <workItem from="1593820241653" duration="2123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
